@@ -6,7 +6,7 @@ Desde una terminal tipo GitBash situarse en la carpeta del proyecto y lanzar los
 
 $ git init
 
-$ git add .
+$ git add -A
 
 $ git commit -am "initial commit"
 
@@ -22,4 +22,4 @@ $ git push origin master
 2. Una vez que tengas tu proyecto Android Studio creado y sincronizado, dentro de la carpeta "docs" sustituirás la versión actual por tu versión de las plantillas de Anteproyecto y Memoria
 
 * La coordinación del proyecto se realiza en el siguiente grupo de slack, únete ahora:
-https://join.slack.com/t/pfcjun19/shared_invite/enQtNTgwNDcyMTgxNTA2LWE5OGRiYWE0ODE1ZGMyZDI0OTZkMTA1YzdlNjkwMGU5ZjQwNzUyMTgwY2Y4ZWZkMWE5MzU4ZDBjYWEyOGFmZWE
+https://join.slack.com/t/pfcjun20-ue/shared_invite/zt-dqg4dajl-cUJZlD5uGW5q6cuktSvczQ
