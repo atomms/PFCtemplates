@@ -14,7 +14,7 @@
 
 	$ git pull origin master --allow-unrelated-histories
 
-	// primero descargamos hacia nuestro AS los archivos que ya existen en Github con un pull antes de hacer nuestro push del código)
+	// primero descargaremos hacia nuestro AS los archivos que ya existen en Github con un pull antes de hacer nuestro push del código)
 	// y si se abre el editor vi, tenéis que teclear tecla ESC y luego :wq con tecla Enter al final
 
 	$ git push origin master
